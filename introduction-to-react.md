@@ -75,8 +75,8 @@ JSX stands for JavaScript XML. JSX allows us to write HTML elements with JavaScr
 // JSX syntax
 // we don't need to use quotes with JSX
 const jsxElement = <h1>I am a JSX element</h1>
-const welcome = <h1>Welcome to 30 Days of React Challenge</h1>
-const data = <small>Oct 2, 2020</small>
+const welcome = <h1>Welcome to React</h1>
+const data = <small>Aug 2, 2022</small>
 ```
 
 The above strange looking code seems like JavaScript, but it is not JavaScript and it seems like HTML but not completely an HTML element. It is a mix of JavaScript and an HTML elements. JSX can allow us to use HTML in JavaScript. The HTML element in the JSX above is _h1_ and _small_.
@@ -102,7 +102,7 @@ Let us add a subtitles and other contents to this JSX element by adding addition
 ```js
 const header = (
   <header>
-    <h1>Welcome to 30 Days Of React</h1>
+    <h1>Welcome to React</h1>
     <h2>Getting Started React</h2>
     <h3>JavaScript Library</h3>
   </header>
@@ -114,11 +114,11 @@ Let us keep adding more elements. Additional HTML elements to display the author
 ```js
 const header = (
   <header>
-    <h1>Welcome to 30 Days Of React</h1>
+    <h1>Welcome to Of React</h1>
     <h2>Getting Started React</h2>
     <h3>JavaScript Library</h3>
-    <p>Asabeneh Yetayeh</p>
-    <small>Oct 2, 2020</small>
+    <p>Rajat Gandhi</p>
+    <small>Aug 2, 2022</small>
   </header>
 )
 ```
@@ -133,11 +133,11 @@ We comment codes for different reasons and it is also good to know how to commen
 {
   /*
  <header>
-    <h1>Welcome to 30 Days Of React</h1>
+    <h1>Welcome to React</h1>
     <h2>Getting Started React</h2>
     <h3>JavaScript Library</h3>
-    <p>Asabeneh Yetayeh</p>
-    <small>Oct 2, 2020</small>
+    <p>Rajat Gandhi</p>
+    <small>Aug 2, 2022</small>
   </header>
 */
 }
