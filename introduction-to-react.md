@@ -1,6 +1,10 @@
 <div align="center">
   <h1> Getting Started React</h1>
+  <sub>
+    <p> August, 2022</p>
+  </sub>
 </div>
+
 
 - [Getting Started React](#getting-started-react)
   - [1. What is React?](#1-what-is-react)
