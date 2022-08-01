@@ -114,7 +114,7 @@ Let us keep adding more elements. Additional HTML elements to display the author
 ```js
 const header = (
   <header>
-    <h1>Welcome to Of React</h1>
+    <h1>Welcome to React</h1>
     <h2>Getting Started React</h2>
     <h3>JavaScript Library</h3>
     <p>Rajat Gandhi</p>
