@@ -5,8 +5,6 @@
 - [Getting Started React](#getting-started-react)
   - [1. What is React?](#1-what-is-react)
   - [2. Why React?](#2-why-react)
-    - [React vs Vue popularity in October 2020](#react-vs-vue-popularity-in-october-2020)
-    - [React vs Vue popularity in February 2020](#react-vs-vue-popularity-in-february-2020)
   - [3. JSX](#3-jsx)
     - [JSX Element](#jsx-element)
     - [Commenting a JSX element](#commenting-a-jsx-element)
