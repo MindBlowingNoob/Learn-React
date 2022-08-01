@@ -145,6 +145,4 @@ We comment codes for different reasons and it is also good to know how to commen
 
 #### Rendering a JSX Element
 
-```js
 
-```
