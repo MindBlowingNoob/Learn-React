@@ -15,9 +15,6 @@
     - [Injecting data to JSX in React Component](#injecting-data-to-jsx-in-react-component)
     - [Further on Functional components](#further-on-functional-components)
 - [Exercises: Components](#exercises-components)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Components
 
