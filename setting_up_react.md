@@ -393,7 +393,7 @@ import ReactDOM from 'react-dom'
 const header = (
   <header>
     <div className='header-wrapper'>
-      <h1>Welcome to 30 Days Of React</h1>
+      <h1>Welcome to React</h1>
       <h2>Getting Started React</h2>
       <h3>JavaScript Library</h3>
       <p>Instructor: Rajat Gandhi</p>
@@ -456,7 +456,7 @@ const author = {
   firstName: 'Rajat',
   lastName: 'Gandhi',
 }
-const date = 'Oct 2, 2022'
+const date = 'Aug 2, 2022'
 // JSX element, header
 const header = (
   <header>
