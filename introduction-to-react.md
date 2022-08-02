@@ -321,7 +321,7 @@ JSX element for the footer part of the website.
 // JSX element
 const footer = (
   <footer>
-    <p>Copyright 2020</p>
+    <p>Copyright 2022</p>
   </footer>
 )
 ```
@@ -353,7 +353,7 @@ const main = (
 // JSX element for the footer part of the website
 const footer = (
   <footer>
-    <p>Copyright 2020</p>
+    <p>Copyright 2022</p>
   </footer>
 )
 // JSX element which contain all, it is a container or parent
@@ -416,7 +416,7 @@ Now, let us put everything together and render it to the browser.
       // JSX element, footer
       const footer = (
         <footer>
-          <p>Copyright 2020</p>
+          <p>Copyright 2022</p>
         </footer>
       )
       // JSX element, app, a container or a parent
@@ -557,7 +557,7 @@ Now, you know how to use the inline style and how to use className. Let us style
       // JSX element, footer
       const footer = (
         <footer style={footerStyles}>
-          <p>Copyright 2020</p>
+          <p>Copyright 2022</p>
         </footer>
       )
       // JSX element, app
@@ -708,7 +708,7 @@ Instead of style object using regular styling method is more easy than the one a
       const footer = (
         <footer>
           <div className='footer-wrapper'>
-            <p>Copyright 2020</p>
+            <p>Copyright 2022</p>
           </div>
         </footer>
       )
@@ -984,7 +984,7 @@ Now, let us put everything together. Here, in the example below, the data is inj
           </div>
         </main>
       )
-      const copyRight = 'Copyright 2020'
+      const copyRight = 'Copyright 2022'
       // JSX element, footer
       const footer = (
         <footer>
@@ -1008,7 +1008,7 @@ Now, let us put everything together. Here, in the example below, the data is inj
 </html>
 ```
 
-As you can see the lists are all in one line. Therefore, we should format the list the way we want, before we inject it to JSX. In order to format the list, we should modify the array before we will inject it to JSX. We can modify the array using _map_. As a react developer you should have a very good understanding of functional programming(map, filter, reduce, find, some, every). If you don't have good understanding of functional programming, check out day 1.
+As you can see the lists are all in one line. Therefore, we should format the list the way we want, before we inject it to JSX. In order to format the list, we should modify the array before we will inject it to JSX. We can modify the array using _map_. As a react developer you should have a very good understanding of functional programming(map, filter, reduce, find, some, every).
 
 ```js
 const techs = ['HTML', 'CSS', 'JavaScript']
@@ -1171,7 +1171,7 @@ In the following code example, the list is now containing list elements and it i
           </div>
         </main>
       )
-      const copyRight = 'Copyright 2020'
+      const copyRight = 'Copyright 2022'
       // JSX element, footer
       const footer = (
         <footer>
@@ -1354,7 +1354,7 @@ As you can see above, now the lists are formatted properly, but there is a warni
           </div>
         </main>
       )
-      const copyRight = 'Copyright 2020'
+      const copyRight = 'Copyright 2022'
       // JSX element, footer
       const footer = (
         <footer>
