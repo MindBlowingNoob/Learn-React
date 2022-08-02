@@ -208,7 +208,7 @@ Now, let's create an App component , that will wrap the Header, Main and Footer.
 // index.js
 import React from 'react'
 import ReactDOM from 'react-dom'
-import gandhiImage from './images/asabeneh.jpg'
+import gandhiImage from './images/rajat.jpg'
 
 // Header Component
 const Header = () => (
