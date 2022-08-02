@@ -644,9 +644,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(app, rootElement)
 ```
 
-# Exercises
-
-## Exercises: Level 1
+## Exercises:
 
 1. What is a module?
 2. What is package?
