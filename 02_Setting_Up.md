@@ -21,9 +21,6 @@
   - [Injecting data to JSX elements](#injecting-data-to-jsx-elements)
   - [Importing Media Objects in React](#importing-media-objects-in-react)
 - [Exercises](#exercises)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Setting Up
 
