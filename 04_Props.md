@@ -20,9 +20,6 @@
   - [propTypes](#proptypes)
   - [defaultProps](#defaultprops)
 - [Exercises: Components and Props](#exercises-components-and-props)
-  - [Exercises: Level 1](#exercises-level-1)
-  - [Exercises: Level 2](#exercises-level-2)
-  - [Exercises: Level 3](#exercises-level-3)
 
 # Props
 
@@ -45,7 +42,7 @@ const getUserInfo = (firstName, lastName, country) => {
 
 // calling a functons
 
-getUserInfo('Asabeneh', 'Yeteyeh', 'Finland')
+getUserInfo('Rajat', 'Gandhi', 'Finland')
 
 //component syntax
 
@@ -62,7 +59,7 @@ const User = (props) => {
   )
 }
 // calling or instantiating a component, this component has three properties and we call them props:firstName, lastName, country
-<User firstName = 'Asabeneh', lastName='Yetayeh' country = 'Finland' />
+<User firstName = 'Rajat', lastName='Gandhi' country = 'Finland' />
 ```
 
 In the previous section, we injected data as follows and today we will change these data to props.
@@ -1020,7 +1017,7 @@ const App = () => {
     alert(showDate(new Date()))
   }
   const greetPeople = () => {
-    alert('Welcome to React Challenge, 2022')
+   alert('Welcome to React, 2022')
   }
 
   return (
