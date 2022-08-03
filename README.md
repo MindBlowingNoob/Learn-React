@@ -1,2 +1,7 @@
 # Learn-React
-From Basic to Advanced ->
+Want to became a good developer?
+```js
+while(!died){
+  code();
+}
+```
