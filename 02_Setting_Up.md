@@ -529,7 +529,7 @@ ReactDOM.render(app, rootElement)
 ## Importing Media Objects in React
 
 How do we import images, video and audio in React? Let's see how we import images first.
-Create images folder in the src folder and save an image inside. For instance let's save asabeneh.jpg image and let's import this image to index.js. After importing we will inject it to a JSX expression, user. See the code below.
+Create images folder in the src folder and save an image inside. For instance let's save rajat.jpg image and let's import this image to index.js. After importing we will inject it to a JSX expression, user. See the code below.
 
 ```js
 // index.js
